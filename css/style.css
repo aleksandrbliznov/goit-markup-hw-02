@@ -38,6 +38,17 @@ ul {
     color: #2196F3;
 }
 
+.logo-footer {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    /* identical to box height */
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 .portfolio:active {
  color: #000000;
 }
@@ -75,7 +86,7 @@ ul {
     font-family: Roboto;
     font-weight: bold;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.87;
     display: flex;
     align-items: center;
     text-align: center;
@@ -92,6 +103,14 @@ ul {
 
 .site-nav .link.current {
     color: #2196F3;
+}
+
+.site-nav a {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
 }
 
 /* Section */
@@ -187,7 +206,20 @@ footer {
 }
 
 .nav-contact a {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
     color: #757575;
+}
+
+.footer-contact a {
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
 }
 
 .link:hover,
