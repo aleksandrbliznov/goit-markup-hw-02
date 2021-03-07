@@ -20,7 +20,6 @@ ul {
 
 .logo {
     font-family: Raleway;
-    font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -32,7 +31,6 @@ ul {
 
 .logo-blue {
     font-family: Raleway;
-    font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 1.19;
@@ -52,7 +50,6 @@ ul {
 
 .hero .hero-title {
     font-family: Roboto;
-    font-style: normal;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -64,7 +61,6 @@ ul {
 
 .btn {
     font-family: Roboto;
-    font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 1.87;
@@ -77,7 +73,6 @@ ul {
 
 .hero-btn {
     font-family: Roboto;
-    font-style: normal;
     font-weight: bold;
     font-size: 16px;
     line-height: 30px;
@@ -103,7 +98,6 @@ ul {
 
 .section .section-title.h2 {
     font-family: Roboto;
-    font-style: normal;
     font-weight: bold;
     font-size: 36px;
     line-height: 1.16;
@@ -113,7 +107,6 @@ ul {
 
 .section .section-title.h3 {
     font-family: Roboto;
-    font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 1.14;
@@ -123,8 +116,6 @@ ul {
 
 .section .benefits-text {
     font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
     /* or 171% */
@@ -136,7 +127,6 @@ ul {
 
 .team .team-name {
     font-family: Roboto;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
@@ -147,8 +137,6 @@ ul {
 
 .team .team-title {
     font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
     font-size: 16px;
     line-height: 1.18;
     /* identical to box height */
@@ -170,7 +158,6 @@ ul {
 
 .section .service-title {
    font-family: Roboto;
-   font-style: normal;
    font-weight: bold;
    font-size: 18px;
    line-height: 2;
@@ -180,8 +167,6 @@ ul {
 
 .section .service-text {
    font-family: Roboto;
-   font-style: normal;
-   font-weight: normal;
    font-size: 16px;
    line-height: 1.87;
    /* identical to box height, or 187% */
@@ -226,8 +211,6 @@ footer {
 
 .address .street .link {
     font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
